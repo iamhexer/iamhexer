@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="Hexer, Co-Founder and CEO of Hexerize, beside the Piazam, DropAsecret and HexerSMS app icons" src="assets/banner-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.webp">
+  <img alt="Hexer, Co-Founder and CEO of Hexerize, beside the Piazam, DropAsecret and HexerSMS app icons" src="assets/banner-light.webp" width="100%">
 </picture>
 <br><br>
 
